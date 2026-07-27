@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-yd63d1.worldwidestr.com/sitemap.xml
